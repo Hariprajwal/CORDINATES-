@@ -14,7 +14,7 @@ Mapping coordinates manually is time-consuming. This script eliminates the guess
 * **Language:** Python 3.12
 * **Library:** PyAutoGUI / Pynput
 
-https://github.com/user-attachments/assets/a59ee4fa-831e-4887-9add-e8c3df2d7b49
+
 <img width="956" height="201" alt="image" src="https://github.com/user-attachments/assets/a8674a8d-b7c1-4c83-868b-52de80c6ae1e" />
 
 
